@@ -31,5 +31,6 @@
     "sequelize": "^4.38.0",
     "sequelize-heroku": "^2.0.0"
   },
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {}
 }
