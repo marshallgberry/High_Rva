@@ -1,0 +1,24 @@
+{
+    "development": {
+        "username": "root",
+        "password": "10425ber",
+        "database": "high_rva_db",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "gkgaqb4gogwym4q3",
+        "password": "s9w1qzvbpxy93grb",
+        "database": "high_rva_db",
+        "host": "ryvdxs57afyjk41z.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "gkgaqb4gogwym4q3",
+        "password": "s9w1qzvbpxy93grb",
+        "database": "high_rva_db",
+        "host": "ryvdxs57afyjk41z.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+        "dialect": "mysql"
+    }
+ 
+}
