@@ -7,14 +7,20 @@
         "dialect": "mysql"
     },
     "test": {
-        "username": "az88sxlniwg7nl2w",
-        "password": "wjre573mzqui4zi7",
-        "database": "hrva",
-        "host": "j1r4n2ztuwm0bhh5.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+        "username": "root",
+        "password": null,
+        "database": "database_test",
+        "host": "127.0.0.1",
+        "port": 3306,
         "dialect": "mysql"
-    },
-    "production": {
-        "use_env_variable": "JAWSDB_URL",
+      },
+      "production": {
+        "username": "root",
+        "password": null,
+        "database": "database_production",
+        "host": "127.0.0.1",
+        "port": 3306,
         "dialect": "mysql"
       }
     }
+    
